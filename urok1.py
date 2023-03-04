@@ -1,6 +1,6 @@
-a = input()
+a = input()  //данные вводимые с клавиатуры
 s = input() 
 d = input()
-print(a)
+print(a)    //вывод данных на экран
 print(s)
 print(d) 
